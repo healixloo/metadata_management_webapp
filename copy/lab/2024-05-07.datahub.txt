@@ -1,0 +1,3 @@
+"Data.origin"	"Data.curator"	"Data.collection.date"	"Data.location"	"Sequencing.type"	"Organism"	"Age"	"Tissue"	"Animal.model"	"Treatment"	"Research.topic"	"Reference.URL"	"Curator.email"	"Identifier"
+"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"	"Example"
+"published"	"Jing"	"2023-03-15"	"/scratch/shire/data/nj/projects/Senescence_deconvolution/Senescence_deconvolution/Evaluation/real_bulk"	"RNAseq"	"mouse"	NA	"muscle"	"vivo"	"intramuscular injection of cardiotoxin "	"aging"	"https://www.nature.com/articles/s41586-022-05535-x"	""	"Readme_Senescence_Mouse_Muscle_BulkRNAseq_ccc9b69c874c685114e24b1e523b4e9f.txt"
