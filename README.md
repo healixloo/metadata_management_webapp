@@ -81,7 +81,7 @@ The **Data Management Shiny App** is a comprehensive web application designed to
 
 ## Configuration
 
-The application configuration can be adjusted in the `config.R` file. Modify settings such as file paths, user credentials, and UI elements as needed.
+The application configuration can be adjusted in the annotation file flexibly. Modify entries such as content and display format as needed.
 
 ### Key Configuration Settings
 
@@ -115,7 +115,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please contact:
 
 - **Email**: jing.lu@leibniz-fli.de
-- **GitHub**: [yourusername](https://github.com/healixloo)
+- **GitHub**: [healix.loo](https://github.com/healixloo)
 
 ## Acknowledgements
 
