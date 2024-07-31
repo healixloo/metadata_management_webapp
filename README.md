@@ -1,5 +1,6 @@
 Here's an enriched `README.md` for your Shiny app, incorporating details about the features and functionality of the application based on the provided code:
 
+Auther: Jing Lu
 ---
 
 # Data Management Shiny App
